@@ -1,3 +1,7 @@
+
+
+2021.2.4  1.1.0 fix build for Xcode failed with arm64
+
 YYKit
 ==============
 
